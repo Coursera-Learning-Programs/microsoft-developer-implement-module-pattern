@@ -1,1 +1,0 @@
-# microsoft-implement-module-pattern
